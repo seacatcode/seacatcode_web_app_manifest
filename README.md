@@ -1,0 +1,1 @@
+# seacatcode_web_app_manifest
